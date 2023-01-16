@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ordozgoite
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on projects where I can use my knowledge to help others.
 - 📫 How to reach me: ordozgoitevictor@gmail.com
 
